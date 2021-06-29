@@ -44,6 +44,6 @@ Dentro do arquivo *package.json*, na seção "*start*" você pode "simplificar" 
     "dev": "node index.js"
   },`. <br><br>
   Essa alteração é opcional. <br> <br>
-←[Voltar para lista anterior](https://github.com/ricardaonao/API)
+←[Voltar para lista anterior](https://github.com/ricardaonao/APIs)
 ____________________________________________________________________
 Autoria: Ricardo Souza 
