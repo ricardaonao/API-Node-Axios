@@ -9,7 +9,7 @@ Demonstrar a forma mais simples se consumir uma API utilizando o **Axios**.
 
 
 ## Configurando Ambiente 📗
- Instale o **Noode.Js** (caso não tenha, acesse o site do Node.js https://nodejs.org/en/, baixe a versão LTS, e instale. Next, next, next...), instale os seguintes pacotes utilizando seu terminal:
+ Instale o **Node.Js** (caso não tenha, acesse o site do Node.js https://nodejs.org/en/, baixe a versão LTS, e instale. Next, next, next...), instale os seguintes pacotes utilizando seu terminal:
 
 
 * **Axios** : Cliente **HTTP** assíncrono e baseado em *promisses*. Seu trabalho é facilitar as solicitações HTTP dos *verbos* CRUD, que serão feitas as rotas ou *endpoints*.<br> <br>
